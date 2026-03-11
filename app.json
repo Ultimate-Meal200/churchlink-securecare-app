@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "ChurchLink SecureCare",
+    "slug": "churchlink-securecare",
+    "scheme": "churchlink",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-notifications"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.churchlink.securecare"
+    }
+  }
+}
